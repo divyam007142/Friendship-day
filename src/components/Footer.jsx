@@ -4,7 +4,7 @@ const Footer = () => {
       <div class="bg-white rounded-xl shadow-md overflow-hidden">
         <div class="bg-gradient-to-r from-purple-600 to-indigo-600 p-4 text-center">
           <p class="text-white text-sm font-medium">
-            Made with ❤️ using <strong>Preact</strong> | 
+            Made with ❤️ by <strong>Lunar-Vibes</strong> | 
             <a 
               href="https://github.com/sanwebinfo/friendship-day-greeting" 
               target="_blank" 
