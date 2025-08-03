@@ -61,7 +61,7 @@ npm run dev
 
 ## 🙌 Credits
 
-Developed with 💖 by **Divyam Singh**
+Developed with 💖 by **Lunar - Vibes**
 
 > "Few things in life make me happy, and you are one of them." — Happy Friendship Day!
 
@@ -69,7 +69,7 @@ Developed with 💖 by **Divyam Singh**
 
 ## 📬 Feedback
 
-If you have any suggestions or feedback, feel free to open an issue or connect on [Discord](https://discord.gg/UPCore).
+If you have any suggestions or feedback, feel free to open an issue or connect on [Portfolio](https://lunar-vibes-portfolio.netlify.app/).
 
 ```
 
