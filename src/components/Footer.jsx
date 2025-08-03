@@ -6,7 +6,7 @@ const Footer = () => {
           <p class="text-white text-sm font-medium">
             Made with ❤️ by <strong>Lunar-Vibes</strong> | 
             <a 
-              href="https://github.com/divyam007142/friendship-day-greeting" 
+              href="https://github.com/divyam007142/Friendship-day" 
               target="_blank" 
               rel="nofollow noopener" 
               class="text-amber-200 hover:text-white hover:underline ml-1 transition-colors duration-200"
