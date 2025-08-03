@@ -13,7 +13,7 @@ Celebrate the joy of friendship with this colorful and heartfelt **Friendship Da
 
 Here’s a sneak peek of the card design:
 
-![Sample](src/assets/Sample.png)
+![Sample](src/assets/sample-1.png)
 
 ---
 
